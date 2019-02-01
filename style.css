@@ -1,0 +1,50 @@
+h1 {
+    color: #A44A3F;
+}
+
+h2 {
+    color: #3A405A;
+    font-size: 1.5em;
+}
+
+/****** main content ******/
+h3 {
+    font-size: 1em;
+}
+
+h4 {
+    color: #A44A3F;
+    font-size: 1em;
+}
+
+#left_col {
+    background-color: #E9AFA3;
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin-left: 109;
+    margin-right: auto;
+}
+
+#right_col {
+    background-color: #F9DEC9;
+}
+
+ul {
+    color: #3A405A;
+    list-style: none;
+}
+
+.word {
+    text-align: center;
+}
+
+.space {
+    margin-top: 1em;
+}
+
+.o {
+    margin-top: 50;
+}
